@@ -40,7 +40,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
           <div className="gap-4 mt-8 sm:mt-12 lg:mt-16 flex flex-col sm:flex-row items-center justify-center">
             <TalkButton />
             <Link
-              href="https://drive.google.com/file/d/1zHpnyHE_O6yXtz8G2mrBoo-EwekRw0jI/view?usp=sharing"
+              href="https://drive.google.com/drive/folders/1yzHtxTTIpQzvixPygd3Xqlmh_EoCL9qP"
               passHref
             >
               <span className="inline-block px-6 py-2 bg-[var(--primaryColor)] text-white rounded-lg text-center cursor-pointer hover:bg-[var(--primaryColorDark)] transition-colors duration-300">
