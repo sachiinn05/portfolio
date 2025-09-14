@@ -82,7 +82,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
           <div className="gap-4 mt-8 sm:mt-12 lg:mt-16 flex flex-col sm:flex-row items-center justify-center">
             <TalkButton />
             <Link
-              href="https://drive.google.com/drive/folders/1yzHtxTTIpQzvixPygd3Xqlmh_EoCL9qP?q=sharedwith:public%20parent:1yzHtxTTIpQzvixPygd3Xqlmh_EoCL9qP"
+              href="https://drive.google.com/file/d/1h2-frkSPm0yesHDW7v-pxU2JM5MWc1V4/view?usp=sharing"
               passHref
             >
               <span className="inline-block px-6 py-2 bg-[var(--primaryColor)] text-white rounded-lg text-center cursor-pointer hover:bg-[var(--primaryColorDark)] transition-colors duration-300">
